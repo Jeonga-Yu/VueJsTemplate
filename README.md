@@ -1,6 +1,6 @@
 # setup
 
-> a vue js setup file project
+> a vue js setup file for new project
 
 ## Build Setup
 
